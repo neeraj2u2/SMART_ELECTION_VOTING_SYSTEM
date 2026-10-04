@@ -25,7 +25,6 @@ This project is designed to provide a simple and efficient digital voting system
 - HTML
 - CSS
 - JavaScript
-- [Database/Backend jo actual project mein use hua hai]
 
 ## Team Contribution
 
